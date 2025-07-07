@@ -4,7 +4,7 @@ Este repositório contém a solução para o trabalho final da disciplina de Int
 
 ## ✒️ Aluno
 
-* **Nome:** Luiz
+* **Nome:** Luiz Felipe Sousa Leal
 
 ## 📋 Sumário
 

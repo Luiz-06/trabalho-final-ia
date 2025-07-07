@@ -73,5 +73,3 @@ Para executar e testar o assistente de chatbot localmente, siga os passos abaixo
 
 * **Para texto:** Digite sua mensagem na caixa de texto na parte inferior e clique no botão **"Enviar"** (ou pressione a tecla `Enter`).
 * **Para imagem:** Clique no botão **"🖼️ Imagem"**, selecione um arquivo de imagem do seu computador. Após a imagem ser carregada, digite uma pergunta sobre ela na caixa de texto e clique em **"Enviar"**.
-
-## Estrutura do Repositório

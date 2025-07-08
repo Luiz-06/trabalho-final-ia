@@ -1,29 +1,31 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assistente com Gemini</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Assistente com Gemini</title>
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
 <div class="chat-container">
-    <div class="chat-header">
-        Assistente de Chat - Gemini
-    </div>
+    <div class="chat-header">Assistente de Chat - Gemini</div>
     <div class="chat-messages" id="chat-messages">
-        <div class="message bot-message">Olá! Pergunte-me algo sobre texto ou envie uma imagem.</div>
+    <div class="message bot-message">
+        Olá! Pergunte-me algo sobre texto ou envie uma imagem.
+    </div>
     </div>
     <div class="chat-input-area">
-        <input type="text" id="text-input" placeholder="Digite sua mensagem...">
-        <input type="file" id="image-upload" accept="image/*">
-        <label for="image-upload" id="image-upload-label">🖼️ Imagem</label>
-        <button id="send-button">Enviar</button>
+    <input
+        type="text"
+        id="text-input"
+        placeholder="Digite sua mensagem..."
+    />
+    <input type="file" id="image-upload" accept="image/*" />
+    <label for="image-upload" id="image-upload-label">🖼️</label>
+    <button id="send-button">➤</button>
     </div>
 </div>
 
 <script src="script.js"></script>
-
 </body>
 </html>
